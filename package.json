@@ -1,0 +1,27 @@
+{
+  "name": "@illegalrazer/yaml-db",
+  "version": "0.1.0",
+  "description": "A NPM package to make a database using YAML files",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illegalrazer/slash-commands.git"
+  },
+  "keywords": [
+    "yaml"
+  ],
+  "author": "Eden Cheung",
+  "license": "ISC",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "yaml": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.23"
+  }
+}
